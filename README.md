@@ -1,4 +1,7 @@
 # mini-project
+
+Research Paper Link: https://dl.acm.org/doi/10.1145/3404835.3462862
+
 This project is based on NeuRec. Thanks to the contributors.
 
 Environment Requirement
